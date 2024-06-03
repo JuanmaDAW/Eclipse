@@ -1,10 +1,11 @@
 package Saludos;
 
-public class HolaMundo {
+public class HolaJuanma {
 
 	public static void main(String[] args) {
-		System.out.println("Hola Mundoo");
+		System.out.println("Hola Juanma");
+
+
 	}
 
 }
-
